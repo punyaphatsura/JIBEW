@@ -71,7 +71,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-100 p-6 flex flex-col items-center justify-center">
       <h1 className="text-3xl font-bold text-gray-800 mb-6">
-        Upload and Convert Images to Base64
+        Just Image to Base64 Encoding Website
       </h1>
       <div
         {...getRootProps()}
